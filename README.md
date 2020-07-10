@@ -2,8 +2,8 @@
 IoT project monitor suhu CPU Raspberry PI 3 B+
 
 IoT project monitor suhu CPU Raspberry PI 3 B+
-Hantar data ke ThingSpeak.com serta bina graf untuk tujuan pemantauan
-graf data ini boleh dilihat di:
+Hantar data ke ThingSpeak.com serta bina graf untuk tujuan pemantauan.
+Graf data ini boleh dilihat di:
 
 https://thingspeak.com/channels/1073773
 
