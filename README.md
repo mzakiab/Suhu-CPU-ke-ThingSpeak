@@ -9,6 +9,6 @@ https://thingspeak.com/channels/1073773
 
 Ditulis oleh:
 <br>
-<b>9W2KEY<b> <i>OJ15dx</i>
+<b>9W2KEY</b> <i>OJ15dx</i>
 <br>
 Pada 6 June, 2020
