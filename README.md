@@ -7,7 +7,7 @@ Graf data ini boleh dilihat di:
 
 https://thingspeak.com/channels/1073773
 
-Di ThingSpeak, saya setup jika suhu 50c atau lebih, dia akan hantar tweet di akaun Twitter @Abe_Key. Selamat mencuba.
+Di ThingSpeak, saya setup jika suhu 50c atau lebih, dia akan hantar tweet di akaun Twitter <a href="https://twitter.com/abe_key">@Abe_Key</a>. Selamat mencuba.
 <p>
 Ditulis oleh:
 <br>
